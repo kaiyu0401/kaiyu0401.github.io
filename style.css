@@ -1,0 +1,16 @@
+ul {
+  list-style: none;
+}
+
+li{
+	margin-bottom: 15px;
+}
+
+p {
+	margin-left: 40px;
+}
+
+footer{
+	margin-top: 40px;
+	text-align: center;
+}
