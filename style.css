@@ -2,10 +2,13 @@ h1{
 	margin-left: 40px;
 	margin-top: 30px;
 	margin-bottom: 40px;
+	font-size: 25px;
 }
 
 h2{
+	font-size: 20px;
 	margin-left: 40px;
+	border-bottom: 1px solid;
 }
 
 ul {
@@ -23,6 +26,17 @@ li{
 
 .li > p{
 	font-weight: bold;
+}
+
+a[target=_blank][rel=nofollow]{
+
+}
+
+a:after {
+  margin: 0 3px;
+  font-family: FontAwesome;
+  vertical-align: middle;
+  content: '\f08e';
 }
 
 p {
